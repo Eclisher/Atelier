@@ -8,10 +8,10 @@
 		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.hei</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>hei.shool</groupId>
+	<artifactId>atelier</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>atelier-spring</name>
+	<name>atelier</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

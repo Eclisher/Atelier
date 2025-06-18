@@ -1,10 +1,10 @@
-package com.hei;
+package hei.shool.atelier;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AtelierSpringApplicationTests {
+class AtelierApplicationTests {
 
 	@Test
 	void contextLoads() {

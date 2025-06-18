@@ -1,13 +1,13 @@
-package com.hei;
+package hei.shool.atelier;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AtelierSpringApplication {
+public class AtelierApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AtelierSpringApplication.class, args);
+		SpringApplication.run(AtelierApplication.class, args);
 	}
 
 }
